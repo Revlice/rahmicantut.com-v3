@@ -7,7 +7,7 @@ const contactInfo = [
     },
     {
         label: "Email",
-        value: "rahmicantut052@gmail.com",
+        value: "rahmicantut077@gmail.com",
     },
     {
         label: "Location",
