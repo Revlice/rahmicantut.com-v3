@@ -12,14 +12,14 @@ import { BiLogoVisualStudio } from "react-icons/bi";
 import { SiPostman } from "react-icons/si";
 import { SiXcode } from "react-icons/si";
 import { SiAndroidstudio } from "react-icons/si";
-import { SiTypescript } from "react-icons/si";
+import { BiLogoTypescript } from "react-icons/bi";
 
 export const cardsData = [
     {
         title:'Programming Languages',
         tools:[
             { icon:<IoLogoJavascript/>,name:'Javascript' },
-            { icon:<SiTypescript/>,name:'Typescript' },
+            { icon:<BiLogoTypescript/>,name:'Typescript' },
             
         ]
     },
