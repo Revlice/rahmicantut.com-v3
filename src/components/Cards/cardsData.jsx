@@ -13,6 +13,7 @@ import { SiPostman } from "react-icons/si";
 import { SiXcode } from "react-icons/si";
 import { SiAndroidstudio } from "react-icons/si";
 import { BiLogoTypescript } from "react-icons/bi";
+import { RiNextjsFill } from "react-icons/ri";
 
 export const cardsData = [
     {
@@ -26,8 +27,8 @@ export const cardsData = [
     {
         title:'Frontend Tools',
         tools:[
-            { icon:<FaReact />,name:'React',},
-            { icon:<FaReact />,name:'React Native'},
+            { icon:<FaReact />,name:'React.js',},
+            { icon:<RiNextjsFill />,name:'Next.js'},
             { icon:<SiVite />,name:'Vite'},
             { icon:<RiTailwindCssFill/>,name:'Tailwind CSS'},
             { icon:<SiReactrouter />, name:'React-Router'},
