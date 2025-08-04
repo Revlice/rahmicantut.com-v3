@@ -17,7 +17,9 @@ export const cardsData = [
     {
         title:'Programming Languages',
         tools:[
-            { icon:<IoLogoJavascript/>,name:'Javascript' }
+            { icon:<IoLogoJavascript/>,name:'Javascript' },
+            { icon:<IoLogoTypescript/>,name:'Typescript' },
+            
         ]
     },
     {
